@@ -1,0 +1,156 @@
+\documentclass[a4paper,12pt,oneside,openany]{report}	
+\input{FormatoPack}
+
+\begin{document}
+
+\begin{center}
+\textbf{UNIVERSIDADE FEDERAL DO RIO DE JANEIRO}
+\vspace{-0.2cm}
+
+\textbf{ESCOLA POLITÉCNICA}
+\vspace{-0.2cm}
+
+\textbf{DEPARTAMENTO DE ENGENHARIA ELETRÔNICA E DE COMPUTAÇÃO}
+\vspace{0.8cm}
+
+\underline{\textbf{PROPOSTA DE PROJETO DE GRADUAÇÃO}}
+
+Aluno: João Victor Almeida Davim
+
+\vspace{-0.2cm}
+
+Orientador: Alan Mathison Turing
+
+\end{center}
+
+\textbf{1. TÍTULO}
+
+Alternativa para Previsão de Séries Temporais Utilizando Redes Neurais Sem Peso
+
+\vspace{0.4cm}
+\textbf{2. ÊNFASE}
+
+Projeto com ênfase em computação.
+
+\vspace{0.4cm}
+\textbf{3. TEMA}
+
+O tema do trabalho é o estudo de uma alternativa para previsão de séries temporais. Neste sentido, o problema a ser resolvido é a extrapolação do número de pessoas infectadas por Covid-19 no Rio de Janeiro.
+
+\vspace{0.4cm}
+\textbf{4. DELIMITAÇÃO}
+
+% O objeto de estudo é o cérebro humano de pessoas tidas como sadias. As excitações às quais elas serão submetidas tem por finalidade estimular seus sentimentos morais e emocionais. O modelo computacional está voltado ao processo mecânico, espacial e temporal da ativação cerebral, e não no processo químico, celular e psicológico.
+O objetivo do estudo é avaliar o modelo de Redes Neurais Sem Peso (RNSP) para a tarefa de previsão de séries temporais. O modelo computacional é feito para realizar tarefa de regressão supervisionada, portanto o foco é a adaptação do problema de previsão de séries temporais para um de regressão.
+
+\vspace{0.4cm}
+\textbf{5. JUSTIFICATIVA}
+
+% A emoção e razão são as funções mais complexas de que o cérebro humano é capaz de produzir. Durante o dia-a-dia, o ser humano é constantemente estimulado a ativar operações mentais relacionadas com a razão e emoção. Neste processo de ativação às vezes pode haver a predominância de uma operação mental sobre a outra.
+Padrões podem ser observados em diversos fenômenos da natureza, fundamentais para a modelagem de fenômenos físicos, sociais e até mesmo biológicos. Para séries temporais não difere, ou seja, a utilização de padrões é essencial para a criação de modelos de previsão.
+
+% Os mecanismos neurais que correspondem a cada operação mental são diferentes. Entretanto, a ciência muito pouco conhece sobre esta mecânica. Sabe-se que algumas regiões estão relacionadas com determinadas emoções. Contudo, não basta simplesmente enumerar as relações <processo mental,área de ativação>, tal como é feito atualmente. Entende-se que existe uma necessidade de esclarecer os aspectos obscuros relacionados com a mecânica de funcionamento deste processo. A hipótese inicial é que se o processo de ativação é passível de tratamento sistemático, então pode ser proposto um modelo computacional que o descreva, ao menos parcialmente. Desta forma, em havendo uma Máquina de Turing reconhecedora de padrões de ativação cerebral, existirá também um algoritmo, ou resolutor, capaz de desempenhar a mesma funcionalidade. A partir de então é possível realizar afirmações sobre a questão da solucionabilidade e da computabilidade do problema.
+Previsão de séries temporais é um problema não tão abordado quanto problemas supervisionados de classificação e regressão, mas possui alguns fundamentos bem consolidados. Qualquer séire temporal possui caracteristicas que podem ser observadas como estacionaridade e autocorrelacao. Além disso, também podem ser decompostas em tendência, sazonalidade e resíduo. Isso permite, poranto, modelagem do problema através do aprendizado de máquina com treinamento supervisionado. A partir de então, é possível inferir o comportamento esperado da série temporal para dias subsequentes.
+
+% Neste sentido, o presente projeto é uma complementação de estudos anteriores, buscando avançar na compreensão do funcionamento do processo de ativação cerebral, buscando materializar a questão sobre o cérebro humano como um objeto computável, segundo algumas condições de contorno. Sua originalidade reside no fato de não existirem modelos computacionais do processo mecânico, espacial e temporal da ativação cerebral sob a ótica da Teoria da Computação. Os modelos disponíveis até o momento estão associados ao processo químico e celular, tais como os modelos quantitativos de elementos finitos e as redes neurais, respectivamente. Assim, a importância deste trabalho está relacionada com a possibilidade de aplicar os resultados da Teoria da Computação ao cérebro humano.
+Neste sentido, o presente projeto é uma alternativa a estudos anteriores, buscando otimizar a utilização de recursos e tempo de processamento sem comprometer a assertividade do modelo preditivo. Sua originalidade se dá pela inexistência de métodos para previsão de séries temporais utilizando RNSP. Até então, essas redes resolvem apenas problemas supervisionados de classificação e regressão. Assim, a importância desse trabalho está relacionada à expansão do conjunto de problemas resolvíveis por RNSP e viabilizar a previsão de séries temporais com utilização reduzida de recursos. 
+
+\vspace{0.4cm}
+\textbf{6. OBJETIVO}
+
+% O objetivo geral é, então, propor um modelo computacional capaz de sistematizar o processo de ativação cerebral humano para um conjunto limitado de estímulos. Desta forma, tem-se como objetivos específicos: (1) relacionar um conjunto de estímulos morais e emocionais que serão tratados pelo modelo computacional; (2) construir um modelo tridimensional do cérebro humano que possibilite a representação espacial das áreas fisiológicas referentes ao estudo proposto, e; (3) elaborar um sistema formal capaz de deduzir uma determinada seqüência de entrada. Este sistema formal será um sistema reconhecedor.
+O objetivo é, então, propor uma adaptação dos problemas de previsão de séries temporais de forma que este seja resolvido utilizando uma RNSP de regressão. Desta forma, têm-se como específicos: (1) construir um modelo de RNSP ajustado a conjuntos dados de série temporal, e; (2) comparar a assertividade e os recursos utilizados com modelos pré-existentes de estudos anteriores ajustados com os mesmos conjuntos de dados.
+
+\vspace{0.4cm}
+\textbf{7. METODOLOGIA}
+
+% Este trabalho irá utilizar a correlação funcional entre a atividade cerebral e os aspectos abstratos das emoções morais para a modelagem de um processo de tomada de decisão. A partir do uso da resposta BOLD (Blood Oxigen Level Derived) em imagens de ressonância funcional, se pretende estabelecer um modelo computacional que represente aspectos do comportamento decisório humano, para fins de identificação.
+Este trabalho irá utilizar dados sintéticos, número de pessoas infectadas por Covid-19 no Rio de Janeiro e temperatura mínima diária em Melbourne para o ajuste dos modelos preditivos. Os dados sintéticos serão gerados de forma pseudo aleatória, já os dados do número de pessoas infectadas por Covid-19 e de temperatura mínima diária serão extraídos das fontes abertas eSUS e GitHub respectivamente.
+
+% A correlação funcional entre a atividade cerebral e os aspectos abstratos das emoções morais durante a tomada de decisão, pode ser evidenciada pela análise da ativação temporal em imagens médicas de Ressonância Magnética funcional (RMf). O exame RMf faz uso da resposta BOLD \cite{StMichael05} para evidenciar as áreas do córtex humano que apresentam aumento significativo da atividade neural. Este aumento é espacialmente caracterizado pela redução da taxa de oxigênio da hemoglobina, provocando a atenuação do sinal de Ressonância Magnética (RM). 
+Os modelos utilizados para ajuste serão Auto Regressive Integrated Moving Average (ARIMA)\cite{ALZAHRANI2020914}, Prophet \cite{fbprophet} e Regression WiSARD (ReW) \cite{rew}. Cada modelo será ajustado aos dados e terá seus hiperparâmetros otimizados através de uma busca em grade e/ou conhecimentos do domínio de cada problema individualmente. Os modelos então serão  e individualmente de acordo os critérios: tempo de treinamento, tempo de inferência, uso de memória para treinamento, uso de memória para inferência e métricas de validação RMSE, MAPE, MAE e MPE.
+
+% Desta forma, através de ambientes interativos baseados nos aspectos estático e dinâmico de jogos interativos, situações envolvendo tomadas de decisões assistidas por computador, e ainda, com o apoio de equipamentos avançados de RM, deseja-se mensurar e analisar a ativação cerebral de um indivíduo (jogador). Assim, durante esses jogos interativos, o cérebro do indivíduo será monitorado e sua ativação avaliada a partir do uso de técnicas de processamento de imagens online. O procedimento proposto de análise permitirá uma modelagem mais eficiente da dinâmica evolutiva das emoções morais, otimizando a compreensão e o delineamento da fronteira de sentimentos dúbios.
+A busca dos hiperparâmetros de cada modelo será realizada utilizando como critério de otimização cada métrica de validação apresentada. Para tal, o conjunto de dados será divido em treino, validação e teste. O conjunto de treino será utilizado para o treinamento dos modelos enquanto o de validação para o cálculo das métricas no momento de busca dos hiperparâmetros. Então, para cada busca de hiperparametros será instanciado um modelo com a melhor configuração para ser treinado utilizando todo o cojunto completo (treino + validação) de dados. Em seguida, com uma configuração por métrica, todos os critérios serão avaliados para cada instância utilizando os dados separados para teste.
+
+% As recentes evidências experimentais indicam que o comportamento sócio-moral do homem é baseado em circuitos cerebrais específicos, porém o mapeamento destes circuitos ainda encontra-se indefinido. A partir do processamento de imagens de RMf resultantes de estímulos cooperativos inseridos em jogos, pretende-se evidenciar o relacionamento entre as porções específicas do cérebro humano responsáveis pela gênese dos sentimentos morais e emocionais, a partir de ações cooperativas e não-cooperativas durante a dinâmica dos jogos \cite{Binmore92}.
+A partir dos resultados obtidos, será possível concluir se a utilização das RNSPs para previsão de séries temporais possui algum benefício prático. A partir desses modelos preditivos é possível, então, realizar extrapolações, que permitem a tomada de ações preventivas baseado no comportamento histórico dos dados, evidenciando informações como tendência e sazonalidade.
+
+% O êxito deste trabalho está centrado na determinação de uma metodologia para a construção de um modelo computacional do cérebro humano relacionado com sentimentos morais e emocionais, segundo algumas hipóteses previamente definidas. Técnicas de Computação Gráfica e Processamento de Imagens são empregadas na construção do modelo computacional \cite{Lins98} do processo de ativação cerebral proposto. As imagens de RMf, que sofrem o processamento, serão obtidas em bancos de imagens de domínio público.
+O êxito deste trabalho está centrado na apresentação de uma alternativa para modelos de previsão de séries temporais que exija menos recursos e tempo para ajuste, podendo assim abrir novas possibilidades de implantação desses modelos sem grandes perdas de assertividade.
+
+\vspace{0.4cm}
+\textbf{8. MATERIAIS}
+
+Para este projeto será utilizado um computador de uso pessoal, no qual vai executar todos  os experimentos em condições semelhantes.
+
+A coleta de dados e os experimentos serão escritos na linguagem Python com auxílio, principalemnte, das bibliotecas pandas, wisardpkg \cite{wisardpkg}, statsmodels, fbprophet e memory\_profiler.
+
+Os dados serão coletados das fontes abertas eSUS e GitHub. A primeira é uma plataforma do governo de onde serão coletados os dados de número de casos confirmados de Covid-19 no Rio de Janeiro, equanto a segunda é um repositório aberto que será utilizado para baixar os dados de temperatura mínima diária em Melbourne.
+% Relacionar os materiais que estão previstos no projeto (\textit{computadores, instrumentos, equipamentos, dados, software: explicitar se há licença})
+
+\vspace{0.4cm}
+\textbf{9. CRONOGRAMA}
+
+% Apresentada graficamente conforme a Figura \ref{Fig:Cronograma}.
+
+Fase 1 (7 dias): Coleta dos dados abertos.
+
+Fase 2 (21 dias): Experimentos com o modelo ARIMA.
+
+Fase 3 (21 dias): Experimentos com o modelo ReW.
+
+Fase 4 (21 dias): Experimentos com o modelo Prophet.
+
+Fase 5 (14 dias): Compilação dos resultados e geração dos gráficos.
+
+Fase 6 (30 dias): Escrita do texto.
+
+% \begin{figure}
+% \begin{center}
+% \parbox[h]{14cm}
+%   {
+%   \begin{center}
+%   \includegraphics[scale=1.0]{Cronograma.eps}
+%   \caption[\small{(\textit{Atenção, evitar projetos com menos de 5 meses})}]{\label{Fig:Cronograma} \footnotesize{(\textit{Atenção, evitar projetos com menos de 5 meses})}}
+%   \end{center}
+%   }
+% \end{center}
+% \end{figure} 
+
+\bibliographystyle{plain}
+\bibliography{main}
+% \begin{thebibliography}{}
+
+% \bibitem{Alzahrani2020} ALZAHRANI, S. I., ALJAMAAN, I. A., AL-FAKIH, E. A.?Forecas-ting  the  spread  of  the  COVID-19  pandemic  in  Saudi  Arabia  usingARIMA  prediction  model  under  current  public  health  interventions?,Journal of Infection and Public Health, v.  13, n.  7, pp.  914?919,2020.  ISSN: 1876-0341.  doi:  https://doi.org/10.1016/j.jiph.2020.06.001.Dispon ??vel em:<https://www.sciencedirect.com/science/article/pii/S1876034120304937>.
+
+% \bibitem{Binmore92}BINMORE, Ken. "Fun and Games". Lexington, D. C. Heath, 1992. p.51.
+
+% \bibitem{Lins98}CARVAHO, Roberto Lins de, OLIVEIRA, Cláudia Maria, "Modelos de Computação e Sistemas Formais". Rio de Janeiro, UnNiversidade Federal do Rio de Janeiro, 1998.
+
+% \end{thebibliography}
+
+      \vspace{2cm}
+      \noindent
+Rio de Janeiro, 12 de julho de 2021
+
+      \vspace{0.5cm}
+      \begin{flushright}
+         \parbox{10cm}{
+            \hrulefill
+
+            \vspace{-.375cm}
+            \centering{João Victor Almeida Davim - Aluno}
+
+            \vspace{0.9cm}
+            \hrulefill
+
+            \vspace{-.375cm}
+            \centering{Alan Mathison Turing - Orientador}
+ 
+            \vspace{0.9cm}
+         }
+      \end{flushright}
+      \vfill
+      
+\end{document}

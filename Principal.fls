@@ -1,8 +1,8 @@
-PWD /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao
+PWD /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.tex
-OUTPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.log
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.tex
+OUTPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.log
 INPUT /usr/share/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/report.cls
@@ -20,17 +20,17 @@ INPUT /usr/share/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex
 INPUT /usr/share/texmf-dist/tex/latex/tools/layout.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/layout.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/layout.sty
@@ -63,28 +63,28 @@ INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
 INPUT /usr/share/texmf-dist/tex/generic/babel-portuges/brazil.ldf
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
@@ -305,17 +305,17 @@ INPUT /usr/share/texmf-dist/tex/latex/base/alltt.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/alltt.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/alltt.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/alltt.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
 INPUT /usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT /usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT /usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -422,17 +422,17 @@ INPUT /usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
 INPUT /usr/share/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/share/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/share/texmf-dist/tex/latex/multirow/multirow.sty
@@ -466,10 +466,10 @@ INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux
-OUTPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux
+OUTPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -515,16 +515,16 @@ INPUT /usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-OUTPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.pdf
+OUTPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.bbl
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.bbl
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.bbl
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.bbl
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.bbl
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.bbl
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.bbl
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.bbl
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux
+INPUT /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb

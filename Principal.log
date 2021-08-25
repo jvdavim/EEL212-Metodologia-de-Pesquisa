@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.7.12)  14 JUL 2021 01:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.7.12)  25 AUG 2021 10:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.tex"
-(/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.tex
+**/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.tex
+(/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/share/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
@@ -23,7 +23,7 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/FormatoPack.tex (/usr/share/texmf-dist/tex/latex/tools/layout.sty
+) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/FormatoPack.tex (/usr/share/texmf-dist/tex/latex/tools/layout.sty
 Package: layout 2014/10/28 v1.2c Show layout parameters
 \oneinch=\count188
 \cnt@paperwidth=\count189
@@ -80,7 +80,7 @@ Language: portuges 2021/02/04 v1.2s Portuguese support from the babel system
 Package babel Info: \l@brazil = using hyphenrules for portuguese
 (babel)             (\language70) on input line 111.
 Package babel Info: Making " an active character on input line 143.
-)) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/pagina.sty) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/indentfirst.sty
+)) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/pagina.sty) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/indentfirst.sty
 Package: indentfirst 1994/05/23 v1.02 Indent first paragraph (DPC)
 ) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
@@ -270,7 +270,7 @@ Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
 File: pst-tree.tex 2017/02/18 1.13 `pst-tree' (tvz,hv)
 ) (/usr/share/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/rotating.sty
+) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/rotating.sty
 Package: rotating 1997/09/26, v2.13 Rotation package
  (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -343,7 +343,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/portland.sty
+)) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/portland.sty
 \paperheight=\dimen191
 \phoffset=\dimen192
 \pvoffset=\dimen193
@@ -386,7 +386,7 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count348
 \l__pdf_internal_box=\box60
-) (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux)
+) (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux)
 \openout1 = `Principal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -449,19 +449,19 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.bbl [4]) [5
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.bbl [4]) [5
 
-] (/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.aux) ) 
+] (/home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.aux) ) 
 Here is how much of TeX's memory you used:
  11721 strings out of 478994
- 195302 string characters out of 5864751
- 517798 words of memory out of 5000000
+ 194880 string characters out of 5864751
+ 517799 words of memory out of 5000000
  29020 multiletter control sequences out of 15000+600000
  409335 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,7n,77p,1032b,160s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,7n,77p,1010b,160s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/home/jvdavim/ufrj/eel212/Modelo de Proposta de Projeto de Graduacao/Principal.pdf" (5 pages, 56736 bytes).
+Output written on /home/jvdavim/git/EEL212-Metodologia-de-Pesquisa/Principal.pdf (5 pages, 56524 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream

@@ -108,6 +108,11 @@ Apresentada graficamente conforme a Figura \ref{Fig:Cronograma}.
 \end{center}
 \end{figure} 
 
+\vspace{0.4cm}
+\textbf{RESUMO}
+
+Neste estudo, é apresentada uma forma de utilização de um modelo de Rede Neural sem Peso (RNSP) para a tarefa de previsão de séries temporais. A pesquisa teve por objetivo comparar os resultados dos modelos de previsão ARIMA e Prophet com o resultado obtido com as RNSPs. Previsão de séries temporais é um problema incidente em muitos campos na vida real, e pode ser exemplificado com número de casos de ocorrência de qualquer evento, assim como variáveis meteorológicas entre outros. Esse tipo de problema ocorre quando há a necessidade de realizar extrapolações temporais dos dados. Como as RNSPs têm se mostrado eficientes em relação à utilização de recursos computacionais e tempo de inferência em problemas de regressão e classificação, propõe-se uma forma de utilização para previsão de séries temporais. Foram extraídos dados de fontes abertas do número de casos confirmados de Covid-19 e temperatura mínima diária em Melbourne para o ajuste dos modelos preditivos ARIMA, Prophet e Regression WiSARD (implementação de uma RNSP). Esses modelos tiveram seus hiperparâmetros otimizados e foram avaliados de acordo com as métricas MPE, RMSE, MAPE e MAE, além do tempo de inferência e utilização de memória RAM. Os resultados encontrados levam a concluir que não apenas o tempo de inferência, mas a utilização de memória RAM pela Regression WiSARD se manteve inferior ao dos modelos ARIMA e Prophet utilizando dados de ambos os \textit{datasets}.
+
 \bibliographystyle{plain}
 \bibliography{main}
 
